@@ -58,3 +58,6 @@ const arrFilter = arr.filter(arr => {
  console.log(arrSize) //la cantidad de elementos
  console.log(arr) //el nuevo array
 ```
+
+
+__Mis redes sociales: [Linkedin](https://www.linkedin.com/in/bidabehere/) [Twitter](https://twitter.com/JPBidabehere)__
